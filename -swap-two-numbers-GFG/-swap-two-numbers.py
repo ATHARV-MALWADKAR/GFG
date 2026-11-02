@@ -3,7 +3,7 @@ b = int(input())
 
 # code here
 
-print(b, a, end="")
+print(b, a, sep=" ",end="")
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
